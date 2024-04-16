@@ -1,0 +1,16 @@
+main {
+    text-align: center;
+}
+
+.item-portifólio {
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #3D3F8A;
+
+}
+
+.item-portifólio a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #3D3F8A;
+}
